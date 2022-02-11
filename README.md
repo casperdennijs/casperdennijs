@@ -1,6 +1,9 @@
 # Hallo wereld! 👋
 
-Ik ben Casper den Nijs. Momenteel volg ik de opleiding Communicatie en Multimedia Design op de Hogeschool van Amsterdam (HvA)
+Ik ben Casper den Nijs en ben 21 jaar oud. 
+Momenteel volg ik de opleiding Communicatie en Multimedia Design op de Hogeschool van Amsterdam (HvA).
+
+Je kan momenteel voornamelijk repo's van school projecten verwachten op mijn profiel.
 <!--
 **casperdennijs/casperdennijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
