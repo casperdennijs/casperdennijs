@@ -1,4 +1,5 @@
 ### Hallo wereld! 👋
+![image](https://user-images.githubusercontent.com/56598338/153670540-7abd970e-f2fe-4ea1-8157-258ad934486c.png)
 
 <!--
 **casperdennijs/casperdennijs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
