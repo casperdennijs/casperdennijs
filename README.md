@@ -3,4 +3,4 @@
 Ik ben Casper, student Communication and Multimedia Design op de Hogeschool van Amsterdam (HvA).</p>
 <p>Op mijn profiel kan je voornamelijk school projecten verwachten.</p>
 <h3>Hier een leuke GIF 😎</h3>
-<img src="./assets/dog.gif">
+<img src="./assets/cat.gif">
