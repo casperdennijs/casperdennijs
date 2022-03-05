@@ -3,7 +3,7 @@
   <p><strong>Welkom op mijn GitHub profiel!</strong><br>
   Ik ben Casper, student Communication and Multimedia Design op de Hogeschool van Amsterdam (HvA).</p>
   <p>Op mijn profiel kan je voornamelijk school projecten verwachten.</p>
-  <img src="./assets/gojo-satoru.gif">
+  <img src="./assets/gojo dancing.gif">
   <hr>
   <h3>🎶 Ik luister momenteel naar 🎶</h3>
   <table> 
