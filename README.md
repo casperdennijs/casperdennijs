@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Casper and I'm a Front-end Developer, from the Netherlands<br><br>🏢 Front-end Developer @ [bluedesk](https://bluedesk.nl)</p>
+<p align="left">My name is Casper and I'm a Front-end Developer, from the Netherlands<br><br>🏢 Front-end Developer @ <a href="https://bluedesk.nl" target="_blank">bluedesk</a></p>
 
 ###
 
